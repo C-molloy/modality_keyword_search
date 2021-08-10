@@ -1,0 +1,18 @@
+INCLUDE_UNMATCH_RESULTS: False
+TEST_OR_PROD: Prod
+regex-file: regex_definition.csv
+regex-file-columns:
+    regex: Regex term
+    category: Category
+    subcategory: Subcategory
+input-data:
+    prod: input_data/out_modality20210805.csv
+    test: input_data/output_test.tsv
+    column-to-search: ctgov_title
+output-data:
+    prod: output_data/output_processed.csv
+    test: output_data/output_processed_test.csv
+analysis_data:
+    category_file: analysis/cat_analysis.csv
+    subcategory_file: analysis/sub_cat_analysis.csv
+

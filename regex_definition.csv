@@ -1,0 +1,42 @@
+Regex term,Category,Subcategory
+antibod,Antibodies,None
+AntiboD[a-z]*.Drug.Conjugate,Antibodies,Antibody-Drug Conjugates
+Bi.specific,Antibodies,"Antibodies, Bispecific"
+biSAb,Antibodies,"Antibodies, Bispecific"
+Multi.valent Antibod,Antibodies,Multi-valent Antibodies
+Monoclonal Antibod,Antibodies,Monoclonal Antibodies
+Antibod[a-z]* Fragments,Antibodies,Antibody Fragments
+Cellular Immunotherap,Cellular Immunotherapy,None
+T.cell Receptor,Cellular Immunotherapy,T-cell Receptor-engineered T-cells
+TCR,Cellular Immunotherapy,T-cell Receptor-engineered T-cells
+Natural Killer Cell,Cellular Immunotherapy,Natural Killer Cells
+NK Therapy,Cellular Immunotherapy,Natural Killer Cells
+CAR.T Therap,Cellular Immunotherapy,Chimeric Antigen Receptor T-Cell Therapy
+Tumor.Infiltrating Lymphocyte,Cellular Immunotherapy,Therapeutic Tumor Infiltrating Lymphocytes
+TIL,Cellular Immunotherapy,Therapeutic Tumor Infiltrating Lymphocytes
+Nanoparticle,Nanoparticles,None
+Liposome,Nanoparticles,Liposomes
+Polysome,Nanoparticles,Set of polysomal ribosomes
+Dendrimer,Nanoparticles,Dendrimers
+Gene Therap,Gene Therapy,None
+mRNA,Gene Therapy,"RNA, Messenger"
+In Vivo,Gene Therapy,In Vivo
+Ex Vivo,Gene Therapy,Ex vivo
+Antisense Oligonucleotide,Gene Therapy,Antisense Oligonucleotides
+Oligonucleotide,Gene Therapy,Oligonucleotides
+RNA interference,Gene Therapy,RNAi Therapeutics
+RNAi,Gene Therapy,RNAi Therapeutics
+Peptide Therap,Peptide or Protein Therapeutics,None
+Protein Therap,Peptide or Protein Therapeutics,None
+cyclic Peptides,Peptide or Protein Therapeutics,Cyclic Peptides
+bi.cyclic Peptides,Peptide or Protein Therapeutics,Cyclic Peptides
+Therap[a-z]* Protein,Peptide or Protein Therapeutics,therapeutic protein
+Peptibod,Peptide or Protein Therapeutics,Peptibodies
+Fusion Protein,Peptide or Protein Therapeutics,Fusion proteins
+Oncolytic,Other Therapies,Oncolytic Viruses
+Stem.Cell,Other Therapies,Stem cell therapy
+Diagnostic Compound,Other Therapies,Diagnostic compounds
+Vitamin,Other Therapies,Vitamin and Mineral Supplement
+Supplement,Other Therapies,Vitamin and Mineral Supplement
+Vaccine,Other Therapies,Vaccines
+Small molecule,Small molecules,None
