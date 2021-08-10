@@ -1,0 +1,37 @@
+Jee Category,Jee Count,,Yulia Category,Yulia Count
+Cellular Immunotherapy,1459,,Cellular Immunotherapy,71735
+Other Therapies,10138,,Peptide or Protein Therapeutics,7735
+Antibodies,1333,,Antibodies,75343
+Gene Therapy,696,,Gene Therapy,49768
+Nanoparticles,331,,Other Therapies,116073
+Peptide or Protein Therapeutics,177,,Nanoparticles,83659
+,,,Small molecules,1698
+,,,,
+,,,,
+Yulia Sub Category,Yulia Count,,Jee Sub Category,Jee unt
+Therapeutic Tumor Infiltrating Lymphocytes,69372,,Therapeutic Tumor Infiltrating Lymphocytes,1017
+Fusion proteins,7438,,Stem cell therapy,3690
+None,154644,,Vitamin and Mineral Supplement,861
+Oligonucleotides,8787,,None,2105
+In Vivo,22867,,Monoclonal Antibodies,508
+Vitamin and Mineral Supplement,28444,,Vaccines,5557
+Vaccines,35252,,In Vivo,80
+Stem cell therapy,51031,,Ex vivo,58
+Liposomes,10312,,Liposomes,55
+"RNA, Messenger",8196,,Natural Killer Cells,285
+therapeutic protein,156,,Antibody-Drug Conjugates,36
+Ex vivo,2299,,Antisense Oligonucleotides,31
+Natural Killer Cells,1117,,Oligonucleotides,33
+Monoclonal Antibodies,6231,,Fusion proteins,177
+RNAi Therapeutics,3402,,"RNA, Messenger",60
+Antisense Oligonucleotides,1362,,Oncolytic Viruses,85
+T-cell Receptor-engineered T-cells,1340,,T-cell Receptor-engineered T-cells,104
+"Antibodies, Bispecific",93,,Chimeric Antigen Receptor T-Cell Therapy,23
+Dendrimers,766,,Dendrimers,2
+Oncolytic Viruses,1955,,,
+Set of polysomal ribosomes,51,,,
+Antibody-Drug Conjugates,407,,,
+Chimeric Antigen Receptor T-Cell Therapy,22,,,
+Antibody Fragments,52,,,
+Cyclic Peptides,40,,,
+Peptibodies,3,,,
