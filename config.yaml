@@ -12,6 +12,7 @@ input-data:
 output-data:
     prod: output_data/output_processed.csv
     test: output_data/output_processed_test.csv
+    unmatched-data: output_data/output_matched_only.csv
 analysis_data:
     category_file: analysis/cat_analysis.csv
     subcategory_file: analysis/sub_cat_analysis.csv
